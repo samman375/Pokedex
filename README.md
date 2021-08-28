@@ -1,0 +1,6 @@
+- Assignment was completed individually in T3 2019 for COMP1511: Programming Fundamentals.
+- Task was to create a Pokedex interface system from pokemon that tracked which pokemon had been seen and found using C.
+- This project had a focus on gaining an deep understanding of pointers and linked lists.
+- A project spec could not be retrieved as the assignment was completed too long ago.
+- Application is very difficult to run outside of a unsw cse machine (as it was run using provided locked files and cse machine commands)
+- A final mark of 87.2/100 was awarded and was worth 13% of grade.
